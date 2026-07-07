@@ -1,2 +1,2 @@
 # demoRepo124
-this is demo for git and git hub
+this is demo for git and git hub.
